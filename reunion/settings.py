@@ -77,19 +77,6 @@ TEMPLATES = [
 WSGI_APPLICATION = "reunion.wsgi.application"
 
 
-# Database
-# https://docs.djangoproject.com/en/4.1/ref/settings/#databases
-
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'mydb_0wli',
-#         'USER': 'mydb_0wli_user',
-#         'PASSWORD': 'ZnuCh7HuJTV7rWBgVGh79hmEF9PUvCwo',
-#         'HOST': 'dpg-cgqgl6ceooggt0oakji0-a.oregon-postgres.render.com',
-#         'PORT': '5432',
-#     }
-# }
 
 DATABASES = {
     'default': {
